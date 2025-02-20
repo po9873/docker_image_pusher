@@ -8,3 +8,10 @@ linuxserver/emby:latest
 emby/embyserver:latest
 gdy666/lucky:latest
 stainless403/mdcx-builtin-gui-base:latest
+thelounge/thelounge:latest
+jxxghp/moviepilot-v2:latest
+a76yyyy/qiandao:latest
+whyour/qinglong:latest
+lswl/vertex:stable:latest
+ccf2012/seedcross:latest
+flaresolverr/flaresolverr:latest
