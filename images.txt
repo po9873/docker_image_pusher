@@ -11,6 +11,6 @@ thelounge/thelounge:latest
 jxxghp/moviepilot-v2:latest
 a76yyyy/qiandao:latest
 whyour/qinglong:latest
-lswl/vertex:stable:latest
+lswl/vertex:stable
 ccf2012/seedcross:latest
 flaresolverr/flaresolverr:latest
