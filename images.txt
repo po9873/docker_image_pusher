@@ -1,5 +1,4 @@
 imaliang/cloud-media-sync:latest
-orekiiiiiiiiiiiii/auto-lady:latest
 iyuucn/iyuuplus:latest
 linuxserver/jackett:latest
 cloudnas/clouddrive2:latest
