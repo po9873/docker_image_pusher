@@ -14,3 +14,4 @@ whyour/qinglong:latest
 lswl/vertex:stable
 ccf2012/seedcross:latest
 flaresolverr/flaresolverr:latest
+ghostchu/peerbanhelper:latest
